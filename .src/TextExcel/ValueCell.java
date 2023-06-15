@@ -9,11 +9,4 @@ public class ValueCell extends RealCell {
 	public String abbreviatedCellText() {
 		return String.format("%-10.10s", getDoubleValue() + "");
 	}
-
-	/*	public String fullCellText() {
-	}
-
-	public double getDoubleValue() {	
-	}
-	*/
 }
