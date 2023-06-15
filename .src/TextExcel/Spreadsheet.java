@@ -1,7 +1,5 @@
 package textExcel;
 
-// Update this file with your own code.
-
 public class Spreadsheet implements Grid
 {
 	private Cell[][] arr;
