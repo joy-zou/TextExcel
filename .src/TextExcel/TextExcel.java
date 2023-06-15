@@ -3,8 +3,6 @@ package textExcel;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-// Update this file with your own code.
-
 public class TextExcel
 {
 
@@ -12,7 +10,6 @@ public class TextExcel
 	{
 		Spreadsheet newSpreadsheet = new Spreadsheet();
 
-		// Add your command loop here
 		Scanner input = new Scanner(System.in);
 		
 		String nextLine = input.nextLine();
